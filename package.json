@@ -19,6 +19,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "antd": "^5.4.6",
     "react": "^16.14.0"
   },
   "devDependencies": {
